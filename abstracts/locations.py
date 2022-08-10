@@ -1,4 +1,4 @@
-"""This is the file for maps and locations abstract classes in pyRPG.
+"""This is the file abstract classes for in-game locations in pyRPG.
 
 (c) StarryDust @StarryDust-02, all rights reserved."""
 
